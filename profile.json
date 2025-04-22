@@ -1,0 +1,43 @@
+{
+    "firstName": "Joel",
+    "lastName": "Miller",
+    "avatar": "joel.webp",
+    "description": "I struggled for a long time with survivin, and no matter what, you keep finding something to fight for.",
+
+    "Links": [
+        {
+            "text": "Biography",
+            "href": "https://thelastofus.fandom.com/wiki/Joel_Miller#Biography"
+        },
+        {
+            "text": "Personality and traits",
+            "href": "https://thelastofus.fandom.com/wiki/Joel_Miller#Personality_and_traits"
+        },
+        {
+            "text": "Skills and abilities",
+            "href": "https://thelastofus.fandom.com/wiki/Joel_Miller#Skills_and_abilities"
+        },
+        {
+            "text": "Design and appearance",
+            "href": "https://thelastofus.fandom.com/wiki/Joel_Miller#Design_and_appearance"
+        }
+    ],
+
+    "socialLinks": [
+        {
+            "text": "Facebook",
+            "icon": "facebook.svg",
+            "href": "https://fb.com/joel"
+        },
+        {
+            "text": "instagram",
+            "icon": "instagram.svg",
+            "href": "https://www.instagram.com/in/joel/"
+        },
+        {
+            "text": "Linkedin",
+            "icon": "linkedin.svg",
+            "href": "https://instagram.com/joel"
+        }
+    ]
+}
